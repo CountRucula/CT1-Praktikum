@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>C:\Users\janni\Documents\Obsidian\SeBrain\2 Projects\Studium\Semester 3\CT1\07_Praktika\CT_Praktika.uvmpw</WorkspaceName>
+
+  <project>
+    <PathAndName>.\Praktikum 1\Lab1 - CT Target System.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 2\Lab2 - BitManipulation.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 3\Lab3 - transbf.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 4\Lab4 - table.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 5\add64\Lab5 - add64.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 5\arith_operations\Lab5 - arith_operations.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 5\sum_diff\Lab5 - sum_diff.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 6\bcd\Lab6 - bcd.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 6\optional\Lab6 - optional.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 7\Lab7.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 8\Lab8 - strukt_code.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 9\SearchMax\Lab9 - searchmax.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 9\assembler und c\9 Assembler und C.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 10\Lab10 - linker_lab.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 11\Lab11.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Praktikum 12\Lab12.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+</ProjectWorkspace>
